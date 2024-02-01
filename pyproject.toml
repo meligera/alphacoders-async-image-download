@@ -2,13 +2,12 @@
 name = "5gals"
 version = "0.1.0"
 description = ""
-authors = ["German meligera@ya.ru>"]
+authors = ["meligera@ya.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
 beautifulsoup4 = "^4.10.0"
-requests = "^2.25.1"
 asyncio = "*"
 async_timeout = "*"
 aiohttp = "*"
